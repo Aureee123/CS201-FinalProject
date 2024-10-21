@@ -1,7 +1,7 @@
 # CS201-FinalProject
 An Inventory Management System developed as a Project for our Final Period
 
-Features\n
+Features: 
 User Management: Add, update and remove users.\n
 Product Management: Add, update, and remove products from inventory.\n
 Order Management: Create, manage, and track customer orders.\n
