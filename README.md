@@ -11,6 +11,11 @@ An Inventory Management System developed as a project for our final period.
 - **PDF Invoice Generation**: Automatically generate PDF invoices for each order.
 - **Database Integration**: Uses MySQL for storing and managing user, product, and order data.
 
+  ## Side Notes:
+- **Should first create inventory database in Command Line Client.
+- **Change the Connection line from ConnectionProvider to fit own MySQL
+- **Should run the Commented Statements from tables one by one. (aka st.executeUpdate)
+
 
 
 
